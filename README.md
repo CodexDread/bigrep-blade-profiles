@@ -12,7 +12,7 @@ Blade has a persistent issue where material profiles and print settings disappea
   /blade-x.x.x           # Organized by Blade version
     /machine-type        # e.g., ONE, STUDIO, PRO, etc.
       /nozzle-config     # e.g., 0.6mm, 1.0mm
-        material.ini     # Individual profile files
+        material-profile # Individual profile files
 ```
 
 ## How to Use
