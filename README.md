@@ -42,12 +42,6 @@ Have profiles that work? Please contribute!
 - Machine model and nozzle diameter
 - Any known quirks or settings you modified
 
-## Compatibility Notes
-
-| Blade Version | Known Issues |
-|---------------|--------------|
-| x.x.x         | *Add notes as discovered* |
-
 ## Disclaimer
 
 These profiles are community-contributed and provided as-is. Always verify settings before production prints. This repository is not affiliated with BigRep GmbH.
